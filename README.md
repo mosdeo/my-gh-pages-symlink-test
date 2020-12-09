@@ -5,6 +5,6 @@
 
 驗證頁面：
 
-1. link: https://mosdeo.github.io/my-gh-pages-symlink-test/link/
-2. cycle link: https://mosdeo.github.io/my-gh-pages-symlink-test/cyclelink/target/
-3. 回上一層: https://mosdeo.github.io/my-gh-pages-symlink-test/folder/linkToPervLevel
+1. link: https://mosdeo.github.io/my-gh-pages-symlink-test/link/ OK
+2. cycle link: https://mosdeo.github.io/my-gh-pages-symlink-test/cyclelink/target/ Failed
+3. 回上一層: https://mosdeo.github.io/my-gh-pages-symlink-test/folder/linkToPervLevel Failed
